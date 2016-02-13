@@ -285,7 +285,7 @@ a:hover {
             height: $dtpContainerWidth;
             
             header {
-                .arrow {
+                .adm-arrow {
                     &.left {
                         margin-left: -2em;
                     }
@@ -302,7 +302,7 @@ a:hover {
             }
         }
         
-        .arrow {
+        .adm-arrow {
             position: absolute;
             display: block;
             padding: 1em;
@@ -773,7 +773,7 @@ a:hover {
                     }
                 }
                 
-                .arrow {
+                .adm-arrow {
                     font-size: .9em;
                     margin-top: -0.2em;
                     padding: .5em;
