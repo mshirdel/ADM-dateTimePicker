@@ -1040,7 +1040,7 @@
                             format: scope.option.format
                         }
 
-                        ngModel.$setViewValue( scope.dtpValue.formated );
+                        ngModel.$setViewValue( scope.dtpValue.fullDate );
                         ngModel.$render();
                         
                         if (dtpInput.value)
