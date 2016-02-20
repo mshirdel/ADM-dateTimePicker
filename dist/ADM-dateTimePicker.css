@@ -283,11 +283,11 @@ a:hover {
   height: 20em;
 }
 /* line 289, ../scss/ADM-dateTimePicker.scss */
-.ADMdtp-container .ADMdtp-calendar-container.square header .arrow.left {
+.ADMdtp-container .ADMdtp-calendar-container.square header .adm-arrow.left {
   margin-left: -2em;
 }
 /* line 292, ../scss/ADM-dateTimePicker.scss */
-.ADMdtp-container .ADMdtp-calendar-container.square header .arrow.right {
+.ADMdtp-container .ADMdtp-calendar-container.square header .adm-arrow.right {
   margin-right: -2em;
 }
 /* line 300, ../scss/ADM-dateTimePicker.scss */
@@ -295,7 +295,7 @@ a:hover {
   height: 0;
 }
 /* line 305, ../scss/ADM-dateTimePicker.scss */
-.ADMdtp-container .ADMdtp-calendar-container .arrow {
+.ADMdtp-container .ADMdtp-calendar-container .adm-arrow {
   position: absolute;
   display: block;
   padding: 1em;
@@ -312,20 +312,20 @@ a:hover {
   transition: all 0.3s;
 }
 /* line 318, ../scss/ADM-dateTimePicker.scss */
-.ADMdtp-container .ADMdtp-calendar-container .arrow.left {
+.ADMdtp-container .ADMdtp-calendar-container .adm-arrow.left {
   left: 0;
 }
 /* line 321, ../scss/ADM-dateTimePicker.scss */
-.ADMdtp-container .ADMdtp-calendar-container .arrow.left:hover {
+.ADMdtp-container .ADMdtp-calendar-container .adm-arrow.left:hover {
   margin-left: -.3em;
   color: #d6c483;
 }
 /* line 326, ../scss/ADM-dateTimePicker.scss */
-.ADMdtp-container .ADMdtp-calendar-container .arrow.right {
+.ADMdtp-container .ADMdtp-calendar-container .adm-arrow.right {
   right: 0;
 }
 /* line 329, ../scss/ADM-dateTimePicker.scss */
-.ADMdtp-container .ADMdtp-calendar-container .arrow.right:hover {
+.ADMdtp-container .ADMdtp-calendar-container .adm-arrow.right:hover {
   margin-right: -.3em;
   color: #d6c483;
 }
@@ -1120,18 +1120,18 @@ a:hover {
   border-color: rgba(252, 95, 42, 0.2);
 }
 /* line 776, ../scss/ADM-dateTimePicker.scss */
-.ADMdtp-container .ADMdtp-calendar-container .monthPickerContainer .monthContainer .yearContainer .arrow {
+.ADMdtp-container .ADMdtp-calendar-container .monthPickerContainer .monthContainer .yearContainer .adm-arrow {
   font-size: .9em;
   margin-top: -0.2em;
   padding: .5em;
   opacity: .7;
 }
 /* line 782, ../scss/ADM-dateTimePicker.scss */
-.ADMdtp-container .ADMdtp-calendar-container .monthPickerContainer .monthContainer .yearContainer .arrow.right {
+.ADMdtp-container .ADMdtp-calendar-container .monthPickerContainer .monthContainer .yearContainer .adm-arrow.right {
   right: 1.5em;
 }
 /* line 785, ../scss/ADM-dateTimePicker.scss */
-.ADMdtp-container .ADMdtp-calendar-container .monthPickerContainer .monthContainer .yearContainer .arrow.left {
+.ADMdtp-container .ADMdtp-calendar-container .monthPickerContainer .monthContainer .yearContainer .adm-arrow.left {
   left: 1.5em;
 }
 /* line 796, ../scss/ADM-dateTimePicker.scss */
